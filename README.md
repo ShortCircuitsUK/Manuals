@@ -1,7 +1,7 @@
 # Manuals
 Manuals for Short Circuits Kits
 
-You will find 2 versions of each manual in each kit's relevant folder. The main manuals are intended for screen use (white text on black background). For the best viewing experience, download the pdf and view it in your browser or another pdf viewer. 
+You will find 2 versions of each manual in each kit's relevant folder. The main manuals are intended for screen use (white text on black background). For the best viewing experience, download the pdf and view it in your browser or another pdf viewer. Enable 2 page view if you have the option. 
 
 If you insist on printing out the manuals, please use the _printable files. These do not include the component index and have black text on a white background.
 
